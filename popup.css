@@ -1,0 +1,17 @@
+body {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  #emojiContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .emojiButton {
+    cursor: pointer;
+    font-size: 20px;
+    margin: 5px;
+  }
+  
